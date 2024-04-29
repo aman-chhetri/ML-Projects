@@ -1,4 +1,4 @@
-# ML Projects
+# ML - Machine Learning Projects ✨
 
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
