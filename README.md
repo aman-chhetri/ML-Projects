@@ -17,10 +17,10 @@ _Status: Completed ✅_
 ### [Project 2: Diabetes Prediction](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%202%20-%20Diabetes%20Prediction "Project 2: Diabetes Prediction")
 
 _Algorithm used: SVM Classifier<br>_
-_Status: Not started ⌛_
+_Status: Completed ✅_
 
-### Project 3: House Price Prediction
-     
+### [Project 3: House Price Prediction](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%203%20-%20House%20Price%20Prediction "Project 3: House Price Prediction")  
+
 _Algorithm used: XGBoost Regressor<br>_
 _Status: Not started ⌛_
 
