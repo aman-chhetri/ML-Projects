@@ -22,10 +22,10 @@ _Status: Completed ✅_
 ### [Project 3: House Price Prediction](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%203%20-%20House%20Price%20Prediction "Project 3: House Price Prediction")  
 
 _Algorithm used: XGBoost Regressor<br>_
-_Status: Not started ⌛_
+_Status: Completed ✅_
 
-### Project 4: Fake News Classification
+### [Project 4: Fake News Prediction](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%204%20-%20Fake%20News%20Prediction "Project 4: Fake News Prediction") 
      
 _Algorithm used: Logistic Regression<br>_
-_Status: Not started ⌛_
+_Status: Completed ✅_
 
