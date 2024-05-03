@@ -2,7 +2,7 @@
 
 ![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![NLTK](https://img.shields.io/badge/Library-sklearn-orange.svg)
 
-![ML](/ML-Projects.png)
+![ML](/banner_image.png)
 
 
 This is my personal repository of the ML Projects which I have done!
