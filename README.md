@@ -7,7 +7,7 @@
 
 This is my personal repository of the ML Projects which I have done!
 
-## A List of ML Projects that I will be doing:
+## A List of ML Projects that I have completed:
 
 ### [Project 1: Rock vs Mine Prediction](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%201%20-%20Rock%20vs%20Mine%20Prediction "Project 1: Rock vs Mine Prediction")
 
