@@ -47,5 +47,4 @@ _Status: Completed ✅_
 
 ### [Project 7: Bank Customer's Churn Classification](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%204%20-%20Fake%20News%20Prediction "Project 4: Fake News Prediction") 
      
-Algorithm used: `Logistic Regression`<br>
 _Status: Not started ⏳_
