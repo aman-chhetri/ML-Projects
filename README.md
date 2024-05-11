@@ -41,3 +41,11 @@ _Status: Completed ✅_
      
 Algorithm used: `Naive Bayes Classifier`<br>
 _Status: Completed ✅_
+
+
+## List of Deep Learning Projects that I have completed:
+
+### [Project 7: Bank Customer's Churn Classification](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%204%20-%20Fake%20News%20Prediction "Project 4: Fake News Prediction") 
+     
+Algorithm used: `Logistic Regression`<br>
+_Status: Not started ⏳_
