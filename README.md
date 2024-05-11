@@ -37,7 +37,7 @@ _Status: Completed ✅_
 Algorithm used: `Random Forest Model`<br>
 _Status: Completed ✅_
 
-### [Project 6: Sentiment Analysis - Restaurant Reviews](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%205%20-%20Spam%20SMS%20Classification "Project 6: Sentiment Analysis - Restaurant Reviews") 
+### [Project 6: Sentiment Analysis - Restaurant Reviews](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%206%20-%20Sentiment%20Analysis%20of%20Restaurant%20Reviews "Project 6: Sentiment Analysis - Restaurant Reviews") 
      
 Algorithm used: `Naive Bayes Classifier`<br>
-_Status: not started ⌛_
+_Status: Completed ✅_
