@@ -48,4 +48,4 @@ _Status: Completed ✅_
 ### [Project 7: Bank Customer's Churn Classification](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%207%20-%20Bank%20Customer's%20Churn%20Classification "Project 4: Fake News Prediction") 
      
 Techniques used: `ANN (Artificial Neural Network)`<br>
-_Status: Not started ⏳_
+_Status: Completed ✅_
