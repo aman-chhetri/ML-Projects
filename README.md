@@ -45,6 +45,7 @@ _Status: Completed ✅_
 
 ## List of Deep Learning Projects that I have completed:
 
-### [Project 7: Bank Customer's Churn Classification](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%204%20-%20Fake%20News%20Prediction "Project 4: Fake News Prediction") 
+### [Project 7: Bank Customer's Churn Classification](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%207%20-%20Bank%20Customer's%20Churn%20Classification "Project 4: Fake News Prediction") 
      
+Techniques used: `ANN (Artificial Neural Network)`<br>
 _Status: Not started ⏳_
