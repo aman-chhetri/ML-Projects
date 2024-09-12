@@ -53,4 +53,4 @@ _Status: Completed ✅_
 ### [Project 8: Handwritten Digit Recognition](https://github.com/aman-chhetri/ML-Projects/tree/main/Project%208%20-%20Handwritten%20Digit%20%20Recognition "Project 4: Fake News Prediction") 
      
 Techniques used: `CNN (Convolutional Neural Network)`<br>
-_Status: In Progress ⏳_
+_Status: Completed ✅_
