@@ -35,4 +35,4 @@ sudo apt-get install python-opencv
 ``` 
 ## 🚩 Result:
 Following image is the prediction of the model.
-![Result of CNN model](https://github.com/aman-chhetri/ML-Projects/tree/abd94008a653d46383f87a5467279d70a92775b6/Project%208%20-%20Handwritten%20Digit%20%20Recognition)
+![Result of CNN model](https://github.com/aman-chhetri/ML-Projects/blob/94c1534cc505fca8d83960051e31817893bcb1a7/Project%208%20-%20Handwritten%20Digit%20%20Recognition/assets/images/result.png)
